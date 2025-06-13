@@ -22,4 +22,4 @@ A simulation where multiple drones collect waste in a grid, avoid obstacles, and
 pip install numpy matplotlib pyttsx3
 Step 2: Run the simulation
 
-python your_script_name.py
+python your_script_name.py)
