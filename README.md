@@ -23,3 +23,6 @@ pip install numpy matplotlib pyttsx3
 Step 2: Run the simulation
 
 python your_script_name.py)
+## 📽 Simulation Demo
+
+[▶ Watch Simulation Video](AQUA%20SIMULATION.mp4)
